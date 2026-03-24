@@ -137,3 +137,5 @@ DSEG-LIME은 기존 LIME의 한계를 보완하여
 
 👉 extension:
 - 의료 데이터를 적용하여 실험 해봄 (추후 보완이 더 필요함)
+- [코랩에서 확인하기]
+   - https://colab.research.google.com/drive/1DdMUcPQ-LcAXgiOPwk1h-OjgEHUucmGw?usp=sharing
